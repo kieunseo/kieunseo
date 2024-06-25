@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Eunseo%20Github!&color=random)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Eunseo%20Github!&color=FFFD33)
 
 
