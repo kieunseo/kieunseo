@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Eunseo Github!-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+![header](https://capsule-render.vercel.app/api?type=cylinder)
+
